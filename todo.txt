@@ -1,0 +1,28 @@
+повторяющиеся элементы 12
+
+  title
+
+  subtitle
+  
+  button primary
+
+  button secondary
+
+  link
+
+  icon
+
+  title
+  subtitle
+
+  title | button primary
+
+  button primary | link
+
+  title
+  subtitle
+  button primary | link
+
+  icon | text
+  
+  column | column
